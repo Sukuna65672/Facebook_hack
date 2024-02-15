@@ -1,8 +1,8 @@
-#!/usr/bin/python
+git clone https://github.com/hackerxphantom/Facebook_hack.git
 
 import socket, sys, os, re, random, optparse, time, io
 if sys.version_info.major <= 2:import httplib
-else:import http.client as httplib
+else:https://www.facebook.com/profile.php?id=61550092703936&mibextid=ZbWKwL
 
 ## COLORS ###############
 wi="\033[1;37m" #>>White#
